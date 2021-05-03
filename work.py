@@ -11,4 +11,4 @@ if alamat=='/' :
     adad3=adad1/adad2
 if alamat=='^' :  
   adad3=adad1**adad2
-prin ('javab = 'javab)
+print ('javab = ',adad3)
