@@ -12,7 +12,7 @@ if alamat=='/' :
 if alamat=='^' :  
     adad3=adad1**adad2
 if alamat=='**' : 
-  adad3=adad1**adad2
+    adad3=adad1**adad2
 if alamat=='%' :  
-  adad3=adad2%adad1
+    adad3=adad2%adad1
 print ('javab = ',adad3)
